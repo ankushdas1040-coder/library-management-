@@ -1,8 +1,8 @@
 # 📚 Library Management System (Java)
 
 ## 📌 Student Details
-- **Name:** Your Name  
-- **Roll Number:** Your Roll Number  
+- **Name:** Ankush Das 
+- **Roll Number:** 24bhi10047  
 - **Course:** BYOP (Bring Your Own Project)
 
 ---
@@ -39,4 +39,4 @@ The system replaces manual record-keeping with a simple digital solution, reduci
 
 ---
 
-## 🧱 Project Structure
+
